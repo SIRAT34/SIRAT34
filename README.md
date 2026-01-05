@@ -31,7 +31,7 @@ A simple Windows task management application built with C#.
 - JSON-based local data storage
 - Visual task status (completed / pending)
 
-🔗 https://github.com/SIRAT34/WorkTaskList
+🔗 https://github.com/SIRAT34/work-task-list
 
 ---
 
